@@ -1,2 +1,2 @@
 # python-portfolio
-Where I store all my portfolio projects
+This is where I story some of my projects
