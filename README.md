@@ -25,4 +25,5 @@
     -  Division
     -  Subtraction
     -  Addition
+    -  User is allowed to stop asking the calculator questions WHENEVER
     
