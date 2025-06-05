@@ -25,11 +25,16 @@
     -  Division
     -  Subtraction
     -  Addition
-    -  User is allowed to stop asking the calculator questions WHENEVER
-    
+    -  User is allowed to stop asking the calculator questions WHENEVER 
 ### Tetris
 *SUMMARY* - This program is a fun game
 *KEY FEATURES*:
     - Boolean expressions
     - Loops
-    
+### Slot Machiene
+  *SUMMARY* - This program allows for gambling game - SLOT MACHEINE
+  *KEY FEATURES*:
+    -  Randomization
+    -  Boolean expressions
+    -  Fun
+    -  User has points
