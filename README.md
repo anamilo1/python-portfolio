@@ -27,3 +27,9 @@
     -  Addition
     -  User is allowed to stop asking the calculator questions WHENEVER
     
+### Tetris
+*SUMMARY* - This program is a fun game
+*KEY FEATURES*:
+    - Boolean expressions
+    - Loops
+    
